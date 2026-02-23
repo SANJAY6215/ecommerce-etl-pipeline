@@ -1,0 +1,8 @@
+product_id,product_name,category,brand,cost_price,selling_price,stock_quantity
+9001,Wireless Headphones,Electronics,Boat,800,1200,150
+9002,Bluetooth Speaker,Electronics,JBL,300,450,200
+9003,Smart Watch,Electronics,Noise,600,850,180
+9004,Office Chair,Furniture,GreenSoul,1000,1500,75
+9005,Cotton T-Shirt,Clothing,H&M,150,300,500
+9006,Running Shoes,Footwear,Nike,400,700,120
+9007,LED TV 42 inch,Electronics,Samsung,1500,2000,60

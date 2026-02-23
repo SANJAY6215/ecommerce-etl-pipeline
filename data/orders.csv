@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,product_id,quantity,unit_price,total_price,payment_method,order_status
+10001,2026-01-10,501,9001,2,1200,2400,UPI,Delivered
+10002,2026-01-11,502,9003,1,850,850,Credit Card,Delivered
+10003,2026-01-11,503,9002,3,450,1350,Debit Card,Shipped
+10004,2026-01-12,501,9004,1,1500,1500,UPI,Cancelled
+10005,2026-01-13,504,9005,4,300,1200,Cash on Delivery,Delivered
+10006,2026-01-13,505,9001,1,1200,1200,Credit Card,Returned
+10007,2026-01-14,506,9006,2,700,1400,UPI,Delivered
+10008,2026-01-15,507,9002,5,450,2250,Debit Card,Delivered
+10009,2026-01-16,508,9003,1,850,850,UPI,Delivered
+10010,2026-01-17,509,9007,2,2000,4000,Credit Card,Delivered
